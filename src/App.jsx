@@ -29,7 +29,7 @@ function ProfileCard(props) {
   );
 }
 function App() {
-  return <ProfileCard img={imgprofile} name="Saif Shayeb" job="Software Developer" location="Nablus, Palestine" github="https://github.com/saif-shayeb" linkedin="https://www.linkedin.com/in/saif-shayeb-702054258" twitter="#" />
+  return <ProfileCard img={imgprofile} name="Saif Shayeb" job="Software Developer" location="Nablus, Palestine" github="https://github.com/saif-shayeb" linkedin="https://www.linkedin.com/in/saif-shayeb/" twitter="#" />
 }
 
 export default App;
