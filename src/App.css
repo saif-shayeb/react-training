@@ -22,8 +22,8 @@
   padding: 2em;
 }
 .logo {
-  height: 20%;
-  width: 20%;
+  height: 30%;
+  width: 30%;
   will-change: filter;
   transition: filter 300ms;
   border-radius: 100%;
